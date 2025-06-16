@@ -17,7 +17,7 @@ export default function HeroSection() {
         />
       </div>
 
-      <h1 className={styles.title}>Hello, I'm Leticia</h1>
+      <h1 className={styles.title}>Hello, I am Leticia</h1>
 
       <p className={styles.description}>
         A UI/UX Designer & Front-End Developer based in Indonesia. I love creating modern and meaningful web experiences.

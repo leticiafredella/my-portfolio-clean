@@ -31,7 +31,7 @@ export default function AboutSection() {
     <section id="about" ref={sectionRef} className={styles.about}>
       <h2 className={styles.sectionTitle}>About Me</h2>
       <p className={styles.aboutText}>
-        Hi! I'm Leticia, a passionate tech student who loves building clean, simple, and meaningful digital experiences. I’ve worked on various web design and development projects during my studies — from responsive websites to UI/UX prototypes. I’m always curious, love learning, and enjoy working both independently and as part of a team.
+        Hi! I am Leticia, a passionate tech student who loves building clean, simple, and meaningful digital experiences. I have worked on various web design and development projects during my studies — from responsive websites to UI/UX prototypes. I’m always curious, love learning, and enjoy working both independently and as part of a team.
       </p>
     </section>
   )
