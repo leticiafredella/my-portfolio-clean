@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Leticia's Portfolio</title>
+        <title>Leticia&aposs Portfolio</title>
         <meta name="description" content="Welcome to my personal portfolio website" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
